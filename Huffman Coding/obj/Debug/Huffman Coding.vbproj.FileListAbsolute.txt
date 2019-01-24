@@ -1,0 +1,10 @@
+C:\Users\RaiSin\Desktop\PROGRAMING\Huffman Coding\Huffman Coding\bin\Debug\Huffman Coding.exe.config
+C:\Users\RaiSin\Desktop\PROGRAMING\Huffman Coding\Huffman Coding\bin\Debug\Huffman Coding.exe
+C:\Users\RaiSin\Desktop\PROGRAMING\Huffman Coding\Huffman Coding\bin\Debug\Huffman Coding.pdb
+C:\Users\RaiSin\Desktop\PROGRAMING\Huffman Coding\Huffman Coding\bin\Debug\Huffman Coding.xml
+C:\Users\RaiSin\Desktop\PROGRAMING\Huffman Coding\Huffman Coding\obj\Debug\Huffman_Coding.Form1.resources
+C:\Users\RaiSin\Desktop\PROGRAMING\Huffman Coding\Huffman Coding\obj\Debug\Huffman_Coding.Resources.resources
+C:\Users\RaiSin\Desktop\PROGRAMING\Huffman Coding\Huffman Coding\obj\Debug\Huffman Coding.vbproj.GenerateResource.Cache
+C:\Users\RaiSin\Desktop\PROGRAMING\Huffman Coding\Huffman Coding\obj\Debug\Huffman Coding.exe
+C:\Users\RaiSin\Desktop\PROGRAMING\Huffman Coding\Huffman Coding\obj\Debug\Huffman Coding.xml
+C:\Users\RaiSin\Desktop\PROGRAMING\Huffman Coding\Huffman Coding\obj\Debug\Huffman Coding.pdb
